@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/9/23 6:19 PM UTC
+			2023/9/24 6:19 PM UTC
 		</td>
 		<td>
 			1
@@ -35,9 +35,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Nirzak/nirzak-profile-views/raw/master/graph/696929375/small/year.png" height="20"> 11
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Nirzak/nirzak-profile-views/tree/master/readme/352743144/year.md">
+				Nirzak
+			</a>
+		</td>
+		<td>
+			2023/9/23 6:24 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Nirzak/nirzak-profile-views/raw/master/graph/352743144/small/year.png" height="20"> 64
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/9/26 6:19 PM UTC</i></small>
+<small><i>Last updated on 2023/9/26 6:25 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

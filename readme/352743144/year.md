@@ -1,7 +1,7 @@
 ## [🔙 nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views)
 
-### :octocat: [nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views)
-![Image of nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views/blob/master/graph/696929375/large/year.png)
+### :octocat: [Nirzak](https://github.com/Nirzak/Nirzak)
+![Image of nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views/blob/master/graph/352743144/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/9/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>3</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>64</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views/blob/master/svg/696929375/badge.svg)](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/696929375/week.md)
+[![Image of nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views/blob/master/svg/352743144/badge.svg)](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/352743144/week.md)
 ```readme
-[![Image of nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views/blob/master/svg/696929375/badge.svg)](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/696929375/week.md)
+[![Image of nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views/blob/master/svg/352743144/badge.svg)](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/352743144/week.md)
 ```
 ### Header
-# nirzak-profile-views [<img alt="Image of nirzak-profile-views" src="https://github.com/Nirzak/nirzak-profile-views/blob/master/graph/696929375/small/year.png" height="20">](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/696929375/year.md)
+# Nirzak [<img alt="Image of nirzak-profile-views" src="https://github.com/Nirzak/nirzak-profile-views/blob/master/graph/352743144/small/year.png" height="20">](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/352743144/year.md)
 ```readme
-# nirzak-profile-views [<img alt="Image of nirzak-profile-views" src="https://github.com/Nirzak/nirzak-profile-views/blob/master/graph/696929375/small/year.png" height="20">](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/696929375/year.md)
+# Nirzak [<img alt="Image of nirzak-profile-views" src="https://github.com/Nirzak/nirzak-profile-views/blob/master/graph/352743144/small/year.png" height="20">](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/352743144/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
