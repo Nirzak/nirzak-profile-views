@@ -1,17 +1,23 @@
 name: GitHub Profile Views Counter CI
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 0 * * *' #This cron will run the workflow every day 12:00AM
   workflow_dispatch:
 jobs:
   release:
     name: GitHub Profile Views Counter Action
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2.3.4
+      - uses: actions/checkout@latest
         with:
           token: ${{ secrets.INSIGHTS_TOKEN }}
-      - uses: actions/setup-node@v2.1.5
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          user: Nirzak
+          #repositories_batch: 80
+          committer_message: profile view updated
+      - uses: actions/setup-node@latest
         with:
           node-version: 14.17.0
       - uses: gayanvoice/github-profile-views-counter-action@3.0.0
