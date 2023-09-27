@@ -1,6 +1,8 @@
-## [🚀 GitHub Profile Views Counter](https://github.com/Nirzak/github-profile-views)
+## [🚀 GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
 **GitHub Profile Views Counter** is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
 It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository.
+
+The project created and maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
 
 <table>
 	<tr>
@@ -24,7 +26,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2023/9/24 6:19 PM UTC
+			2023/9/25 6:19 PM UTC
 		</td>
 		<td>
 			1
@@ -40,7 +42,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2023/9/23 6:24 PM UTC
+			2023/9/25 6:24 PM UTC
 		</td>
 		<td>
 			3
@@ -51,7 +53,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/9/26 6:25 PM UTC</i></small>
+<small><i>Last updated on 2023/9/27 12:24 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
@@ -70,3 +72,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 - [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 - [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
+## 📄 License
+- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice)
+- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
