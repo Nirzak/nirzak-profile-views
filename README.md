@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/10/5 12:00 AM UTC
+			2023/10/6 12:23 AM UTC
 		</td>
 		<td>
 			8
@@ -42,18 +42,34 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
+			2023/10/6 12:00 AM UTC
+		</td>
+		<td>
+			8
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Nirzak/nirzak-profile-views/raw/master/graph/352743144/small/year.png" height="20"> 93
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Nirzak/nirzak-profile-views/tree/master/readme/423569739/year.md">
+				All-in-one-Linux-Commands
+			</a>
+		</td>
+		<td>
 			2023/10/5 12:00 AM UTC
 		</td>
 		<td>
-			7
+			10
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Nirzak/nirzak-profile-views/raw/master/graph/352743144/small/year.png" height="20"> 89
+			<img alt="Response time graph" src="https://github.com/Nirzak/nirzak-profile-views/raw/master/graph/423569739/small/year.png" height="20"> 11
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/10/7 12:23 AM UTC</i></small>
+<small><i>Last updated on 2023/10/8 12:26 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
