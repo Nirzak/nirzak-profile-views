@@ -1,7 +1,7 @@
 ## [🔙 nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views)
 
-### :octocat: [All-in-one-Linux-Commands](https://github.com/Nirzak/All-in-one-Linux-Commands)
-![Image of nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views/blob/master/graph/423569739/large/year.png)
+### :octocat: [nirzak.github.io](https://github.com/Nirzak/nirzak.github.io)
+![Image of nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views/blob/master/graph/291692899/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/10/1</code>
 		</td>
 		<td>
-			<code>30</code>
+			<code>4</code>
 		</td>
 		<td>
-			<code>30</code>
+			<code>36</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2023/9/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views/blob/master/svg/423569739/badge.svg)](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/423569739/week.md)
+[![Image of nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views/blob/master/svg/291692899/badge.svg)](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/291692899/week.md)
 ```readme
-[![Image of nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views/blob/master/svg/423569739/badge.svg)](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/423569739/week.md)
+[![Image of nirzak-profile-views](https://github.com/Nirzak/nirzak-profile-views/blob/master/svg/291692899/badge.svg)](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/291692899/week.md)
 ```
 ### Header
-# All-in-one-Linux-Commands [<img alt="Image of nirzak-profile-views" src="https://github.com/Nirzak/nirzak-profile-views/blob/master/graph/423569739/small/year.png" height="20">](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/423569739/year.md)
+# nirzak.github.io [<img alt="Image of nirzak-profile-views" src="https://github.com/Nirzak/nirzak-profile-views/blob/master/graph/291692899/small/year.png" height="20">](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/291692899/year.md)
 ```readme
-# All-in-one-Linux-Commands [<img alt="Image of nirzak-profile-views" src="https://github.com/Nirzak/nirzak-profile-views/blob/master/graph/423569739/small/year.png" height="20">](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/423569739/year.md)
+# nirzak.github.io [<img alt="Image of nirzak-profile-views" src="https://github.com/Nirzak/nirzak-profile-views/blob/master/graph/291692899/small/year.png" height="20">](https://github.com/Nirzak/nirzak-profile-views/blob/master/readme/291692899/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
