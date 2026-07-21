@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/7/18 1:07 AM UTC
+			2026/7/19 1:12 AM UTC
 		</td>
 		<td>
 			101
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/7/18 1:07 AM UTC
+			2026/7/19 1:12 AM UTC
 		</td>
 		<td>
 			187
@@ -58,18 +58,34 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/7/18 1:07 AM UTC
+			2026/7/19 12:00 AM UTC
 		</td>
 		<td>
-			1068
+			1070
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Nirzak/nirzak-profile-views/raw/master/graph/423569739/small/year.png" height="20"> 1358
+			<img alt="Response time graph" src="https://github.com/Nirzak/nirzak-profile-views/raw/master/graph/423569739/small/year.png" height="20"> 1360
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Nirzak/nirzak-profile-views/tree/master/readme/291692899/year.md">
+				nirzak.github.io
+			</a>
+		</td>
+		<td>
+			2026/7/19 1:12 AM UTC
+		</td>
+		<td>
+			54
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Nirzak/nirzak-profile-views/raw/master/graph/291692899/small/year.png" height="20"> 143
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/7/20 1:16 AM UTC</i></small>
+<small><i>Last updated on 2026/7/21 1:13 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
